@@ -37,11 +37,11 @@ const LandingPage = () => {
 		<div className="landing-page">
 			<div className="landing-page__content">
 				<section className="landing-page__intro">
-					<h1 className="landing-page__name"> Karen Okonkwo </h1>
+					<h1 className="landing-page__name"> Andrew Irorere </h1>
 
 					<Typewriter
 						options={{
-							strings: ["Software Engineer.", "Full-Stack Web Developer."],
+							strings: ["Web Developer🚀", "Seo Expert👨‍💻.", "🤑Freelancer."],
 							autoStart: true,
 							loop: true,
 							wrapperClassName: "landing-page__role",

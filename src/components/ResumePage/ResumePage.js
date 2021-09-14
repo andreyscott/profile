@@ -3,14 +3,19 @@ import "./ResumePage.css";
 import data from "../../data.json";
 import javascript from "../../images/tech/javascript.svg";
 import git from "../../images/tech/git.svg";
-import python from "../../images/tech/python.svg";
-import linux from "../../images/tech/linux.png";
-import sql from "../../images/tech/sql.svg";
 import react from "../../images/tech/react.svg";
 import nodejs from "../../images/tech/nodejs.svg";
 import html5 from "../../images/tech/html5.svg";
 import css3 from "../../images/tech/css3.svg";
-import flask from "../../images/tech/flask.svg";
+
+// import git svg from tech
+import tail from "../../images/tech/tailwind.svg";
+import boot from "../../images/tech/boot.svg";
+import github from "../../images/tech/git2.svg";
+import php from "../../images/tech/php.svg";
+import sass from "../../images/tech/sass.svg";
+import redux from "../../images/tech/redux.svg";
+import fire from "../../images/tech/fire.svg";
 
 const ResumePage = () => {
 	return (
@@ -91,6 +96,18 @@ const ResumePage = () => {
 						
 						*/}
 						<div className="tech">
+						<img
+								src={html5}
+								alt="HTML5"
+								title="HTML5"
+								className="tech__logo"
+							/>
+							<img
+								src={css3}
+								alt="css"
+								title="Css3"
+								className="tech__logo"
+							/>
 							<img
 								src={javascript}
 								alt="Javascript"
@@ -104,38 +121,45 @@ const ResumePage = () => {
 								className="tech__logo"
 							/>
 							<img
-								src={python}
-								alt="Python"
-								title="Python"
+								src={redux}
+								alt="redux"
+								title="redux"
 								className="tech__logo"
 							/>
 							<img
-								src={flask}
-								alt="Flask"
-								title="Flask"
+								src={sass}
+								alt="sass"
+								title="Sass"
 								className="tech__logo"
 							/>
+
+<img							src={tail}
+								alt="tailwind"
+								title="Tailwind"
+								className="tech__logo"
+							/>
+
+                        <img   
+								src={fire}
+								alt="fire"
+								title="Firebase"
+								className="tech__logo"
+							/>
+
+							
+							
 							<img
 								src={nodejs}
 								alt="NodeJS"
 								title="NodeJS"
 								className="tech__logo"
 							/>
-							<img src={sql} alt="SQL" title="SQL" className="tech__logo" />
-							<img
-								src={html5}
-								alt="HTML5"
-								title="HTML5"
-								className="tech__logo"
-							/>
-							<img src={css3} alt="CSS3" title="CSS3" className="tech__logo" />
-							<img src={git} alt="Git" title="Git" className="tech__logo" />
-							<img
-								src={linux}
-								alt="Linux"
-								title="Linux"
-								className="tech__logo"
-							/>
+							
+							<img src={php} alt="php" title="PHP" className="tech__logo" />
+							<img src={boot} alt="Bootstrap" title="BOOTSTRAP" className="tech__logo" />
+							<img src={git} alt="git" title="GIT" className="tech__logo" />
+							<img src={github} alt="Github" title="Github" className="tech__logo" />
+							
 						</div>
 					</div>
 				</div>
