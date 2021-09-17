@@ -11,7 +11,7 @@ import css3 from "../../images/tech/css3.svg";
 // import git svg from tech
 import tail from "../../images/tech/tailwind.svg";
 import boot from "../../images/tech/boot.svg";
-import github from "../../images/tech/git2.svg";
+import github from "../../images/tech/github.svg";
 import php from "../../images/tech/php.svg";
 import sass from "../../images/tech/sass.svg";
 import redux from "../../images/tech/redux.svg";
