@@ -3,7 +3,7 @@ import "./App.css";
 import { Switch, Route, NavLink, useLocation, Link } from "react-router-dom";
 import { CSSTransition, TransitionGroup } from "react-transition-group";
 import ReactGA from "react-ga";
-import logo from "./logos/logo6 white animated.svg";
+import logo from "./images/portfolio/black.svg";
 import {
 	MenuIcon,
 	CloseCircleIcon,
@@ -23,8 +23,9 @@ import PortfolioItem from "./components/PortfolioPage/PortfolioItem";
 import PageNotFound from "./components/PageNotFound/PageNotFound";
 
 const banners = [
-	"https://res.cloudinary.com/karso/image/upload/v1624824339/Portfolio/i7ryav6u9mr5t9ydlja1.jpg",
-	"https://res.cloudinary.com/karso/image/upload/v1624824340/Portfolio/rrwu6vfrun1sfshm3uin.jpg",
+	"https://andreyscott.github.io/banner/img/B0.jpg",
+	"https://andrewirorere.tech/assets/img/profile-img.jpg",											
+	 "https://andreyscott.github.io/banner/img/B1.jpg",
 ];
 
 const navLinks = [

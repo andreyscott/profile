@@ -8,7 +8,7 @@ const PortfolioPage = () => {
 	return (
 		<section className="portfolio-page">
 			<header className="portfolio-page__header">
-				<h1 className="portfolio-page__heading portfolio-page__heading--main">
+				<h1 className="portfolio-page__heading portfolio-page__heqading--main">
 					Recent Works
 				</h1>
 				<p className="portfolio-page__subheading">

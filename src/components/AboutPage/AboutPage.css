@@ -19,7 +19,7 @@ body {
 }
 
 .about-page__heading--main {
-  color: #af5c3b;
+  color: rgb(7, 0, 57);
   font-family: "Merienda One", cursive;
   font-size: 2.8em;
 }
@@ -56,7 +56,7 @@ body {
 .about-page__link,
 .about-page__link:hover,
 .about-page__link:active {
-  color: #af5c3b;
+  color: rgb(7, 0, 57);
 }
 
 .about-page__list {
@@ -102,13 +102,13 @@ body {
 }
 
 .about-page__services-link:hover {
-  background: #af5c3b;
-  color: white;
+  background: rgb(193, 192, 199);
+  color: grey;
 }
 
 .about-page__services-icon {
   margin-bottom: 10px;
-  color: #af5c3b;
+  color: rgb(7, 0, 57);
 }
 
 .about-page__services-link:hover .about-page__services-icon {
