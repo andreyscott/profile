@@ -10,7 +10,7 @@ const AboutPage = () => {
 		<section className="about-page">
 			<header className="about-page__header">
 				<h1 className="about-page__heading about-page__heading--main">
-					Meet Karen Okonkwo
+					Meet Andrew 
 				</h1>
 			</header>
 			<div className="about-page__body">
@@ -25,7 +25,7 @@ const AboutPage = () => {
 									preserveAspectRatio: "xMidYMid slice",
 								},
 							}}
-							style={{ maxWidth: 300 }}
+							style={{ maxWidth: 900 }}
 							height="auto"
 						/>
 					</div>
@@ -34,16 +34,15 @@ const AboutPage = () => {
 							<strong className="about-page__text--bold"> Who am I? </strong>
 							<ul className="about-page__list">
 								<li className="about-page__list-item">
-									A Software Engineer with hands on experience developing
-									websites, full-stack web applications and APIs.
+									A Software Developer with hands on experience developing
+									websites, web applications and Online Marketing.
 								</li>
 								<li className="about-page__list-item">
 									Someone with a good grasp of engineering concepts, data
 									structures, algorithms and the design of systems.
 								</li>
 								<li className="about-page__list-item">
-									A Bachelor’s Degree (First Class Honours) holder in Computer
-									Engineering.
+									A Developer with knowledge and expenrence with Search Engine Marketing(SEM), Google Digital advertisement .
 								</li>
 
 								<li className="about-page__list-item">
@@ -54,7 +53,7 @@ const AboutPage = () => {
 										className="about-page__link"
 									>
 										{" "}
-										Bloomberg L.P.
+										Kapitify
 									</a>
 								</li>
 							</ul>
@@ -63,7 +62,7 @@ const AboutPage = () => {
 							<strong className="about-page__text--bold"> What I do? </strong>
 							<div className="about-page__services">
 								<a
-									href="https://blog.udacity.com/2014/12/front-end-vs-back-end-vs-full-stack-web-developers.html"
+									href="https://www.github.com/andreyscott"
 									target="_blank"
 									className="about-page__services-link"
 								>
@@ -73,17 +72,17 @@ const AboutPage = () => {
 									</span>
 								</a>
 								<a
-									href="https://blog.udacity.com/2014/12/front-end-vs-back-end-vs-full-stack-web-developers.html"
+									href="https://www.github.com/andreyscott"
 									target="_blank"
 									className="about-page__services-link"
 								>
 									<CodeBracesIcon className="about-page__services-icon" />
 									<span className="about-page__services-text">
-										Back-End / API Development
+										SEO / Search Engine Marketing
 									</span>
 								</a>
 								<a
-									href="https://blog.udacity.com/2014/12/front-end-vs-back-end-vs-full-stack-web-developers.html"
+									href="https://www.github.com/andreyscott"
 									target="_blank"
 									className="about-page__services-link"
 								>

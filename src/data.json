@@ -3,38 +3,44 @@
         "email": "andreyscott301@gmail.com",
         "github": "https://github.com/andreyscott",
         "twitter": "https://twitter.com/andreyscott5",
-        "linkedIn": "https://www.linkedin.com/in/karenokonkwo/",
-        "instagram": "https://instagram.com/karen_okonkwo"
+        "linkedIn": "https://www.linkedin.com/in/andrew-irorere-b63a601b8/",
+        "instagram": "https://www.instagram.com/andreyscott.tech/"
     },
     "education":[ {
-            "degree": "Full-Stack Developer Nanodegree",
-            "school": "Udacity, Inc.",
-            "timeline": {"from": "May 2020", "to": "Sept 2020"},
-            "summary": "This nanodegree course extensively taught various technical skills needed to build database-backed APIs and web applications including:\n\n\t• SQL and Data Modelling for the Web\n\t• API Development and Documentation\n\t• Identity and Access Management\n\t• Server Deployment, Containerization and Testing\n\nFind the full syllabus here: https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd0044"
+            "degree": "The complete React Developer course",
+            "school": "ZTM Academy.",
+            "timeline": {"from": "Dec 2020", "to": "Feb 2021"},
+            "summary": "This course extensively taught various technical skills needed to Build enterprise level React applications and deploy to production  Using the Best Technology Like:\n\n\t• Redux React Router\n\t•  React Hooks and Context API\n\t• Firebase and Stripe API\n\t• GraphQL and PWA\n"
         }, {
-            "degree": "Front-End Developer Nanodegree",
-            "school": "Udacity, Inc.",
-            "timeline": {"from": "May 2018", "to": "Nov 2018"},
-            "summary": "This course taught comprehensively various technical skills important in frontend web development. Completed several projects encompassing the knowledge of:\n\n\t• HTML, CSS and JavaScript\n\t• Responsive Web Design\n\t• Object-Oriented Programming\n\t• Web Accessibility\n\t• Test-driven development\n\t• Working with APIs\n\t• Working with several frameworks (among others)\n"
+            "degree": "JavaScript Algorithms and Data Structures",
+            "school": "FreeCodeCamp.",
+            "timeline": {"from": "Jan 2020", "to": "Mar  2020"},
+            "summary": "This course cemented my Knowledge of javascript and taught advancced Javascript Concepts Like Closures and recursive functions \n"
+        },
+        {
+            "degree": "The Complete Web  Developer Course ",
+            "school": "Udemy.",
+            "timeline": {"from": "june 2019", "to": "Nov 2019"},
+            "summary": "This course taught comprehensively various technical skills important in frontend web development. Completed several projects encompassing the knowledge of:\n\n\t• HTML, CSS and JavaScript\n\t• Responsive Web Design\n\t• Object-Oriented Programming\n\t• Web Accessibility\n\t• Node and Express.js\n\t• Working with APIs\n\t• Working with several frameworks (among others)\n"
         }, {
-            "degree": "BSc. in Computer Engineering",
-            "school": "University of Lagos, Nigeria.",
-            "timeline": {"from": "Nov 2015", "to": "Jan 2020"},
-            "summary": "• Graduated with First Class Honours. \n\n• Relevant Coursework: Software Engineering Fundamentals, Computer Programming, Computer Architecture, Algorithms and Data Structures, Systems Programming, Machine and Assembly Language Programming, Digital Electronics, Digital Computer Design, Microprocessors & Microcomputers, Database Management, Computer Networks, Information Theory & Coding, Numerical Methods in Engineering, Technical Communication."
+            "degree": "BSc. in Metallurgical, Material Engineering",
+            "school": "University of Benin, Nigeria.",
+            "timeline": {"from": "Nov 2019", "to": "Present"},
+            "summary": ""
         }
     ], 
     "work":[
         {
-            "role": "Front-End Engineer",
-            "location": "Lagos, Nigeria",
-            "company": "Softcom Africa",
-            "timeline": {"from": "May 2020", "to": "July 2021"},
-            "summary": "• Currently working with the Eyowo team to build out web interfaces that help users interact with the product - which provides financial services to anyone with a phone number. \n• Worked on front-end applications to drive NPower - a Nigerian Federal Government programme that addresses the problem of youth unemployment in the country. Worked alongside other disciplines including back-end, QA, design, and UI developers."
+            "role": "Full stack developer",
+            "location": "Remote",
+            "company": "Upwork",
+            "timeline": {"from": "Jul 2020", "to": "Oct 2020"},
+            "summary": "• Created, Customized and deployed  a bunch of website of small businesses Using Both Static HTML, CSS and JavaScript as well As the React Framework. And used site analytics and metrics to define and monitor success."
         }, {
             "role": "Freelancer",
-            "location": "Lagos, Nigeria",
+            "location": "Benin, Nigeria",
             "company": "Freelancer",
-            "timeline": {"from": "2018", "to": "Present"},
+            "timeline": {"from": "2020", "to": "Present"},
             "summary": "• Architecting and developing fully functional, accessible and responsive web applications using a wide range of tools and technologies for various clients. \n• Services provided for these clients span across front-end development to full-stack application development. Check out my portfolio to see some of these applications live."
         },  {
             "role": "Software Engineer Intern",
@@ -42,131 +48,94 @@
             "company": "GRIT Systems Engineering Ltd.",
             "timeline": {"from": "June 2018", "to": "Dec 2018"},
             "summary": "• Worked with the software team to build software to support the company's hardware products. \n• Designed, developed and maintained the front-end application for the company's project using ReactJS, TypeScript and Material UI. \n• Developed web services for user and order management using Flask."
-        },  {
-            "role": "Intern",
-            "location": "Lagos, Nigeria",
-            "company": "Eko Konnect Research and Education Initiative",
-            "timeline": {"from": "Aug 2018", "to": "Sept 2018"},
-            "summary": "• Worked primarily with Linux (UBUNTU) as an operating system, learning about and unlocking its benefits and applications in everyday development."
         }
     ],
-    "projects": {"anozie-stores":{
-        "name": "Anozie Stores",
-        "description": "For this project, Anozie Stores requested for a website to manage their orders and allow users track their order status. This resulted in my building a full-stack application for this online store. The completion of this project streamlined and removed ambiguities with their order placement process, which led to a significant improvement in the shopping experience of their customers.",
-        "image_url": "https://res.cloudinary.com/karso/image/upload/v1624824208/Portfolio/Project%20Screenshots/lj2yamj3s7gjnkzfsfdt.png",
-        "device_image_url": "https://res.cloudinary.com/karso/image/upload/v1624824211/Portfolio/Project%20Screenshots/g4pjkwgfwyscbhjpbmss.png",
+    "projects": {"starbucks-clone":{
+        "name": "Starbucks clone",
+        "description": "I created and Deployed A React.Js starbucks Clone with user sign in Functionality using Google Account and send realtime posts updates using firestore Database. Other Tools used includes React-Framer-motion Fade, Material-Ui etc.",
+        "image_url": "https://andrewirorere.tech/assets/img/portfolio/starbucks.PNG",
+        "device_image_url": "https://andrewirorere.tech/assets/img/portfolio/starbucks.PNG",
         "gif_url": "",
-        "live_url": "https://anoziestores.com",
-        "github_url": null
+        "live_url": "https://starbucks-d0a9b.web.app/",
+        "github_url": "https://github.com/andreyscott/starbucks"
     },
-    "whatsapp-web-clone":{
-        "name": "Whatsapp Web Clone",
-        "description": "Recreated the current Whatapp Web's UI. Best part? It handles both dark or light mode depending on your device's settings. Hoping to add the backend functionality sometime in the future.",
-        "image_url": "https://res.cloudinary.com/karso/image/upload/v1624874114/Portfolio/Project%20Screenshots/p8yvzprijsyuro2h9gtb.png",
-        "gif_url": "https://res.cloudinary.com/karso/image/upload/v1624868920/Portfolio/Project%20GIFs/tu5chddivl89nactrovw.gif",
-        "live_url": "https://whatsapp-clone-web.netlify.app/",
-        "github_url": "https://github.com/KarenOk/whatsapp-web-clone"
-    },
-    "scribbles-blog":{
-        "name": "Scribbles Blog",
-        "description": "Scribbles is a full stack blog application built using Flask and React. It allows authors to manage blog posts while readers can read and comment on each blog post. The blog posts are also available to users that are not logged in, but they are limited to just reading - they can't comment. A lot of the posts in this blog contain gibberish, but its simple UI gives me a lot of joy.",
-        "image_url": "https://res.cloudinary.com/karso/image/upload/v1624824211/Portfolio/Project%20Screenshots/hfqtds5eqokmn0kzonzg.png",
-        "gif_url": "https://res.cloudinary.com/karso/image/upload/v1613348098/Portfolio/Project%20GIFs/scribbles_blog_yauonc.gif",
-        "live_url": "https://scribbles-blog.netlify.app",
-        "github_url": "https://github.com/KarenOk/Scribbles-Blog"
-    },
-    "gff":{
-        "name": "Geraldine's Flourish Foods",
-        "description": "Geraldine’s Flourish Foods, a food processing and packaging company requested a website to boost their online presence, serve as a source of information about their products and the services they offer, as well as a platform for customers to purchase their products. These requirements led to my building a full-stack application for this company. The resulting website offers the customers convenience as they can access any information about GFF they need and make any purchases of their products at the comfort of their own homes.",
-        "image_url": "https://res.cloudinary.com/karso/image/upload/v1624824209/Portfolio/Project%20Screenshots/j0fhpctaxekdx0cyvwzq.png",
-        "device_image_url": "https://res.cloudinary.com/karso/image/upload/v1624824213/Portfolio/Project%20Screenshots/ddb4asyngfqywy3nepif.png",
+    "kings-clothing":{
+        "name": "Kings-clothing",
+        "description": "",
+        "image_url": "https://thumbs.dreamstime.com/z/simple-sophisticated-crown-vector-logo-design-jewelry-fabrication-clothing-brand-template-160935110.jpg",
         "gif_url": "",
-        "live_url": "https://geraldinesflourishfoods.com",
-        "github_url": ""
+        "live_url": "",
+        "github_url": "https://github.com/andreyscott/Kings-clothing"
     },
-    "abeg-app-clone":{
-        "name": "Abeg App Clone",
+    "coffee":{
+        "name": "Coffee",
+        "description": "",
+        "image_url": "https://images-prod.healthline.com/hlcmsresource/images/AN_images/coffee-worlds-biggest-source-of-antioxidants-1296x728-feature.jpg",
+        "device_image_url": "https://images-prod.healthline.com/hlcmsresource/images/AN_images/coffee-worlds-biggest-source-of-antioxidants-1296x728-feature.jpg",
+        "gif_url": "",
+        "live_url": "https://andreyscott.github.io/coffee/",
+        "github_url": "https://github.com/andreyscott/coffee/"
+    },
+    "preg-beauty":{
+        "name": "Beauty",
         "description": "Was inspired by the clone of Abeg App built by Olamide Solanke and decided to clone his clone 🌚. Check out <a href='https://no-dey-beg.netlify.app' target='_blank'>his clone</a>.",
-        "image_url": "https://res.cloudinary.com/karso/image/upload/v1624830633/Portfolio/Project%20Screenshots/zxw5lmye6kquwliloc3w.png",
-        "gif_url": "https://res.cloudinary.com/karso/image/upload/v1624831566/Portfolio/Project%20GIFs/qziv6b9uisal21nuhyxp.gif",
-        "live_url": "https://abeg-app-clone.netlify.app/",
-        "github_url": "https://github.com/KarenOk/abeg-app-clone"
-    },
-    "pasteit":{
-        "name": "PasteIt",
-        "description": "PasteIt is an online clipboard which allows sharing of text over the internet by generating a unique URL. Others can access the contents of the paste via this URL. Built this because I got tired of opening Whatsapp each time I wanted to transfer text between my devices. This project makes use of ReactJS for the frontend, with Flask, PostgreSQL and SQLAlchemy for the backend.",
-        "image_url": "https://res.cloudinary.com/karso/image/upload/v1624824211/Portfolio/Project%20Screenshots/qpnzlifod0wxff0lbtnr.png",
-        "device_image_url": "https://res.cloudinary.com/karso/image/upload/v1624824211/Portfolio/Project%20Screenshots/joea9loffnpuaiyke4ff.png",
+        "image_url": "https://andrewirorere.tech/assets/img/portfolio/Asset-1.svg",
         "gif_url": "",
-        "live_url": "https://pasteit.netlify.app",
-        "github_url": "https://github.com/KarenOk/Paste-It"
+        "live_url": "https://andreyscott.github.io/beauty1/",
+        "github_url": "https://github.com/andreyscott/beauty1"
     },
-    "nuvle":{
-        "name": "Nuvle",
+    "amazon":{
+        "name": "Amazon-clone",
+        "description": "",
+        "image_url": "https://andrewirorere.tech/assets/img/portfolio/p5.jpg",
+        "device_image_url": "https://andrewirorere.tech/assets/img/portfolio/p5.jpg",
+        "gif_url": "",
+        "live_url": "https://clone-92be1.web.app/",
+        "github_url": "https://github.com/andreyscott/myAmazon-clone"
+    },
+    "real-estate":{
+        "name": "Real Estate",
         "description": "This project involved building a Minimum Viable Product for a restaurant management system. Built a fully functional, accessible and responsive UI for the product’s web application using React, Context API and Bootstrap 4. Integrated the web application with the backend by consuming RESTful API endpoints.",
-        "image_url": "https://res.cloudinary.com/karso/image/upload/v1624824210/Portfolio/Project%20Screenshots/io2eagos5jgn1pig2ldh.png",
-        "device_image_url": "https://res.cloudinary.com/karso/image/upload/v1624824210/Portfolio/Project%20Screenshots/ibjkeqd5iiqwwiqzd2ft.png",
+        "image_url": "https://andrewirorere.tech/assets/img/portfolio/house-4.jpg",
+        "device_image_url": "https://andrewirorere.tech/assets/img/portfolio/house-4.jpg",
         "gif_url": "",
-        "live_url": "",
-        "github_url": ""
+        "live_url": "https://real-estate-5317b.web.app/",
+        "github_url": "https://github.com/andreyscott/Creeps"
     },
-    "rentgage":{
-        "name": "Rentgage MVP",
+    "airbnb":{
+        "name": "Airbnb",
         "description": "This project involved building a Minimum Viable Product for a proptech startup company, Rentgage. Built a mobile application for the product's client-side as well as the backend to go along with it. <br /> <br /> Built using React Native and Node.",
-        "image_url": "https://res.cloudinary.com/karso/image/upload/v1624835630/Portfolio/Project%20Screenshots/plbctazbvcnqs8ipbx7y.png",
+        "image_url": "https://andrewirorere.tech/assets/img/portfolio/air.jpg",
         "device_type": "mobile",
-        "gif_url": "https://res.cloudinary.com/karso/image/upload/v1624873055/Portfolio/Project%20GIFs/afxrhdy8ocehdoly0e5a.gif",
-        "live_url": "",
-        "github_url": ""
-    },
-    "task-ager":{
-        "name": "Task-ager: The task manager",
-        "description": "Task-ager, Task Manager, get it 😉? Task-ager is a web-based task management application built with ReactJS. This project utilizes service workers which makes the app available to use even when the user’s device is offline. Being a Progressive Web App, it can be installed and then launched by users just as if it were any native app.",
-        "image_url": "https://res.cloudinary.com/karso/image/upload/v1624824212/Portfolio/Project%20Screenshots/esa1ebkfh76cwl1gzgtg.png",
-        "gif_url": "https://github.com/KarenOk/task-ager/raw/master/demo.gif",
-        "live_url": "https://task-ager.netlify.app",
-        "github_url": "https://github.com/KarenOk/task-ager"
-    },
-    "portfolio-v2":{
-        "name": "Portfolio V2",
-        "description": "Decided to work on a second version of my personal website. You could say this doubles as some sort of digital resumé. Built with ReactJS. Don’t forget to reach out!",
-        "image_url": "https://res.cloudinary.com/karso/image/upload/v1624824213/Portfolio/Project%20Screenshots/wcva4dpewjnxgitda74u.png",
-        "device_image_url": "https://res.cloudinary.com/karso/image/upload/v1624824211/Portfolio/Project%20Screenshots/bjlc498c6udk51hhu7fz.png",
         "gif_url": "",
-        "live_url": "https://karenokonkwo.netlify.app.com",
-        "github_url": "https://github.com/KarenOk/portfolio-v2"
+        "live_url": "https://sad-perlman-c63069.netlify.app",
+        "github_url": "https://github.com/andreyscott/Airbnb"
     },
-    "fyyur":{
-        "name": "Fyyur",
-        "description": "Fyyur is a musical venue and artist booking site that facilitates the discovery and bookings of shows between local performing artists and venues. This site lets you list new artists and venues, discover them, and list shows with artists as a venue owner. This project involved building out the data models to power the API endpoints for the Fyyur site by connecting to a PostgreSQL database for storing, querying, and creating information about artists and venues on Fyyur.",
-        "image_url": "https://res.cloudinary.com/karso/image/upload/v1624824209/Portfolio/Project%20Screenshots/meqai7m3xn5n9tu6ne6i.png",
-        "gif_url": "https://github.com/KarenOk/Fyyur/raw/master/demo.gif",
-        "live_url": "",
-        "github_url": "https://github.com/KarenOk/Fyyur"
+ "portfolio":{
+        "name": "Portfolio V1",
+        "description": "",
+        "image_url": "https://andrewirorere.tech/assets/img/profile-img.jpg",
+        "gif_url": "",
+        "live_url": "https://AndrewIrorere.tech",
+        "github_url": "https://github.com/andreyscott/portfolio1"
     },
-    "classic-arcade-game":{
-        "name": "Classic Arcade Game",
-        "description": "My rendition of the popular arcade game Frogger. This was a project I worked on while taking the Front-End Developer Nanodegree course. The aim of this game is to get the player to the water as many times as you can before for the countdown stops, while also avoiding the enemy bugs. Use the arrow keys to move the player left, right, up or down. Colliding with an enemy bug resets your position. Try it out and make sure to share your high score with me 🌚.",
-        "image_url": "https://res.cloudinary.com/karso/image/upload/v1624829434/Portfolio/Project%20Screenshots/tdwys7lyjznthkhxs5t1.png",
-        "gif_url": "https://github.com/KarenOk/Classic-Arcade-Game/raw/master/images/demo.gif",
-        "live_url": "https://karenok.github.io/classic-arcade-game",
-        "github_url": "https://github.com/KarenOk/Classic-Arcade-Game"
+
+    "ej-touch":{
+        "name": "Ej Touch",
+        "description": ".",
+        "image_url": "https://andrewirorere.tech/assets/img/portfolio/p4.jpg",
+        "gif_url": "",
+        "live_url": "https://beauty-salon-e2958.web.app/  ",
+        "github_url": "https://github.com/andreyscott/beauty-salon"
     },
-    "online-examination-system":{
-        "name": "Online Examination System",
-        "description": "Built this as my final year project for my Computer Engineering Bachelor’s Degree. In this project, I attempted to address some problems associated with paper-based examinations and also take into account some problems that could arise in a computer-based examination (such as power/network failure). <br /> <br /> The resulting system has the following features: <ul> <li> web-based software which can automatically and accurately grade examinations</li><li> compatible on any platform</li><li> distributes questions randomly to each student to reduce cheating</li><li> allows random selection of questions</li><li> incorporates accessibility considerations </li><li> is able to handle network or power failure by providing resumption capabilities.</li> </ul> <br /> Built using HTML, CSS, JavaScript, Bootstrap, PHP, MySQL. <br /> <br />",
-        "image_url": "https://res.cloudinary.com/karso/image/upload/v1624824208/Portfolio/Project%20Screenshots/jktqjkwvkfobkldxxkwa.png",
-        "gif_url": "https://github.com/KarenOk/Computer-Based-Examination-Software/raw/master/assets/images/demo.gif",
-        "live_url": "http://cbe-test.atwebpages.com/views/login.php",
-        "github_url": "https://github.com/KarenOk/Computer-Based-Examination-Software"
-    },
-    "contact-keeper":{
-        "name": "Contact Keeper",
-        "description": "Full Stack application to manage contacts. Includes authentication functionality. Built using the MERN (MongoDB, Express, React, Node) stack.",
-        "image_url": "https://res.cloudinary.com/karso/image/upload/v1624824208/Portfolio/Project%20Screenshots/jtqjj4qyqtbtqis3tpdj.png",
-        "gif_url": "https://github.com/KarenOk/Contact-Keeper/raw/master/demo.gif",
-        "live_url": "http://contact-keeper-webapp.herokuapp.com/",
-        "github_url": "https://github.com/KarenOk/Contact-Keeper"
+    "spotify":{
+        "name": "Spotify clone",
+        "description": " ",
+        "image_url": "https://andrewirorere.tech/assets/img/portfolio/p3.png",
+        "device_image_url": "https://andrewirorere.tech/assets/img/portfolio/air.jpg",
+        "gif_url": "",
+        "live_url": "https://spotify-clone-17c62.web.app/",
+        "github_url": "https://github.com/andreyscott/Spotify-clone"
     },
     "github-finder":{
         "name": "Github Finder",
@@ -175,5 +144,23 @@
         "gif_url": "https://github.com/KarenOk/Github-Finder/raw/master/demo.gif",
         "live_url": "https://find-users-github.netlify.app",
         "github_url": "https://github.com/KarenOk/Github-Finder"
-    }}
+    },
+    
+    "disney":{
+        "name": "Disney+ Clone Coming Soon",
+        "description": "",
+        "image_url": "",
+        "gif_url": "",
+        "live_url": "",
+        "github_url": "https://github.com/andreyscott/Disney"
+    },
+    "whatsapp-web-clone":{
+        "name": "Whatsapp Web Clone V2 Coming Soon",
+        "description": "",
+        "image_url": "",
+        "gif_url": "",
+        "live_url": "",
+        "github_url": "https://github.com/"
+    }
+}
 }
