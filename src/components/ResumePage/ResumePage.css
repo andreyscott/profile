@@ -63,7 +63,7 @@
 }
 
 .work__timeline {
-  color: rgba(2, 38, 138, 0.8);
+  color: rgba(0, 0, 0, 0.8);
   font-size: 1.1em;
   margin: 0;
   margin-bottom: 5px;
@@ -107,7 +107,7 @@
 
 .education__degree {
   margin: 0 0 5px;
-  color: rgba(2, 38, 138, 0.8);
+  color: rgba(41, 49, 70, 0.8);
   text-transform: uppercase;
   font-size: 1.3em;
 }

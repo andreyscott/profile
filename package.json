@@ -6,6 +6,8 @@
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
+    "firebase": "^9.0.2",
+    "firebase-tools": "^9.18.0",
     "focus-visible": "^5.2.0",
     "html5-device-mockups": "^3.2.1",
     "react": "^17.0.2",

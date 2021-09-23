@@ -11,7 +11,13 @@
             "school": "ZTM Academy.",
             "timeline": {"from": "Dec 2020", "to": "Feb 2021"},
             "summary": "This course extensively taught various technical skills needed to Build enterprise level React applications and deploy to production  Using the Best Technology Like:\n\n\t• Redux React Router\n\t•  React Hooks and Context API\n\t• Firebase and Stripe API\n\t• GraphQL and PWA\n"
-        }, {
+        }, 
+        {
+            "degree": "Fundamentals of Digital Marketing",
+            "school": "Google Digital Skills for Africa.",
+            "timeline": {"from": "Aug 2021", "to": "Sept  2021"},
+            "summary": "Learnt Everything about Digital marketing as well as: \n\n\t• Taking a Business Online,  \n\t• Selling Products and Services Online,\n\t •Getting a Business Online,  \n\t• Promoting a Business with Content, \n\t• and Also Connecting with Customers over Mobile\n \n"
+        },{
             "degree": "JavaScript Algorithms and Data Structures",
             "school": "FreeCodeCamp.",
             "timeline": {"from": "Jan 2020", "to": "Mar  2020"},
