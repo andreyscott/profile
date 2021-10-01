@@ -19,13 +19,13 @@
 }
 
 .landing-page__name {
-  font-size: 4em;
+  font-size: 4.5em;
   margin-left: -2px;
   margin-bottom: 20px;
 }
 
 .landing-page__role {
-  font-size: 1.9em;
+  font-size: 3.1em;
 }
 
 .landing-page__cursor {
@@ -56,7 +56,7 @@
 .landing-page__nav-link {
   color: white;
   position: relative;
-  font-size: 1.1em;
+  font-size: 1.9em;
 }
 
 .landing-page__nav-link::after {
@@ -93,7 +93,7 @@
 }
 
 .landing-page .social__icon:hover {
-  fill: rgb(27, 20, 80);
+  fill: rgb(74, 73, 80);
 }
 
 @media only screen and (max-width: 750px) {
@@ -101,11 +101,11 @@
     display: none;
   }
   .landing-page__name {
-    font-size: 2.4em;
-    margin-bottom: 10px;
+    font-size: 2.5em;
+    margin-bottom: 8px;
   }
   .landing-page__role {
-    font-size: 1.2em;
+    font-size: 2.3em;
   }
 }
 
