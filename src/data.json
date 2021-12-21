@@ -20,7 +20,7 @@
         },{
             "degree": "JavaScript Algorithms and Data Structures",
             "school": "FreeCodeCamp.",
-            "timeline": {"from": "Jan 2020", "to": "Mar  2020"},
+            "timeline": {"from": "Jan 2020", "to": "Aug  2020"},
             "summary": "This course cemented my Knowledge of javascript and taught advancced Javascript Concepts Like Closures and recursive functions \n"
         },
         {
@@ -29,7 +29,7 @@
             "timeline": {"from": "june 2019", "to": "Nov 2019"},
             "summary": "This course taught comprehensively various technical skills important in frontend web development. Completed several projects encompassing the knowledge of:\n\n\t• HTML, CSS and JavaScript\n\t• Responsive Web Design\n\t• Object-Oriented Programming\n\t• Web Accessibility\n\t• Node and Express.js\n\t• Working with APIs\n\t• Working with several frameworks (among others)\n"
         }, {
-            "degree": "BSc. in Metallurgical, Material Engineering",
+            "degree": "BSC. in Metallurgical, Material Engineering",
             "school": "University of Benin, Nigeria.",
             "timeline": {"from": "Nov 2019", "to": "Present"},
             "summary": ""
@@ -41,7 +41,7 @@
             "location": "Remote",
             "company": "Upwork",
             "timeline": {"from": "Jul 2020", "to": "Oct 2020"},
-            "summary": "• Created, Customized and deployed  a bunch of website of small businesses Using Both Static HTML, CSS and JavaScript as well As the React Framework. And used site analytics and metrics to define and monitor success."
+            "summary": "• Created, Customized and deployed high performance website of small businesses Using Both Static HTML, CSS and JavaScript as well As the React Framework. And used site analytics and metrics to define and monitor success."
         }, {
             "role": "Freelancer",
             "location": "Benin, Nigeria",

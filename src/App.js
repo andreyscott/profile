@@ -14,6 +14,7 @@ import {
 	ContactIcon,
 } from "./images/icons/icons";
 
+import Config from "./App.config"
 import LandingPage from "./components/LandingPage/LandingPage";
 import AboutPage from "./components/AboutPage/AboutPage";
 import ContactPage from "./components/ContactPage/ContactPage";
@@ -61,14 +62,15 @@ function App() {
 			window.location.href.includes("localhost") ||
 			window.location.href.includes("staging")
 		) {
-			ReactGA.initialize(process.env.REACT_APP_GA_TRACKING_ID_STAGING, {
+			ReactGA.initialize(process.env.GA_TRACKING_CODE , {
 				debug: true,
 			});
-		} else ReactGA.initialize(process.env.REACT_APP_GA_TRACKING_ID);
+		} else ReactGA.initialize(process.env.GA_TRACKING_CODE);
 		ReactGA.pageview(window.location.pathname + window.location.search);
 	}, []);
 
 	useEffect(() => {
+		console.log(process.env);
 		if (location.pathname === "/") setIsHome(true);
 		else setIsHome(false);
 		setShowNav(false);
@@ -119,7 +121,7 @@ function App() {
 						data={logo}
 						className="app__logo"
 						type="image/svg+xml"
-						aria-label="Karen Okonkwo"
+						aria-label="Andrew Irorere"
 						tabIndex="-1"
 						style={{ pointerEvents: "none" }}
 					/>
