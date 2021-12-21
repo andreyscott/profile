@@ -35,14 +35,14 @@ const AboutPage = () => {
 							<ul className="about-page__list">
 								<li className="about-page__list-item">
 									A Software Developer with hands on experience developing
-									websites, web applications and Online Marketing.
+									websites, Web and Mobile applications and also Digital Marketing.
 								</li>
 								<li className="about-page__list-item">
 									Someone with a good grasp of engineering concepts, data
 									structures, algorithms and the design of systems.
 								</li>
 								<li className="about-page__list-item">
-									A Developer with knowledge and expenrence with Search Engine Marketing(SEM), Google Digital advertisement .
+									A Developer with knowledge and expenrence with Search Engine Marketing(SEM), Google Digital advertisement.
 								</li>
 
 								<li className="about-page__list-item">
@@ -53,7 +53,7 @@ const AboutPage = () => {
 										className="about-page__link"
 									>
 										{" "}
-										Kapitify
+										Unknown
 									</a>
 								</li>
 							</ul>
@@ -88,7 +88,7 @@ const AboutPage = () => {
 								>
 									<WebIcon className="about-page__services-icon" />
 									<span className="about-page__services-text">
-										Full-Stack Web Development
+										Mobile App Development
 									</span>
 								</a>
 							</div>
@@ -99,7 +99,7 @@ const AboutPage = () => {
 							<Link to="/contact" className="about-page__link">
 								reach out to me{" "}
 							</Link>
-							with any project ideas you have or to just say hello!
+							with any project ideas you have or to just say hello😄 always happy to Help.
 						</p>
 					</div>
 				</div>{" "}

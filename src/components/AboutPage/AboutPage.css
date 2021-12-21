@@ -102,7 +102,7 @@ body {
 }
 
 .about-page__services-link:hover {
-  background: rgb(193, 192, 199);
+  background-color: rgb(220, 208, 208);
   color: grey;
 }
 
@@ -112,7 +112,7 @@ body {
 }
 
 .about-page__services-link:hover .about-page__services-icon {
-  color: white;
+  color: transparent;
 }
 
 @media only screen and (max-width: 1200px) {
