@@ -37,23 +37,24 @@
     ], 
     "work":[
         {
+            "role": "Frontend React Native Developer",
+            "location": "Remote",
+            "company": "Afrirpay",
+            "timeline": {"from": "Sept 2021", "to": "Dec 2021"},
+            "summary": "• Was part of a dedicated team of highly skilled React Native software developers, where I was task with building specific screens by writing scalable, documented, high performance codes in React native mainly using functional components and also some light code testing with JEST  before deployment."
+        },  {
+            "role": "Frontend Web Developer",
+            "location": "Benin city, Nigeria",
+            "company": "Kapitify.",
+            "timeline": {"from": "Feb 2020", "to": "July 2021"},
+            "summary": "• Worked with the software team to build software to support the company's hardware products. \n• Designed, developed and maintained the front-end application for the company's project using ReactJS, TypeScript and Material UI. \n• Developed web services for user and order management using Flask."
+        },
+        {
             "role": "Full stack developer",
             "location": "Remote",
             "company": "Upwork",
             "timeline": {"from": "Jul 2020", "to": "Oct 2020"},
-            "summary": "• Created, Customized and deployed high performance website of small businesses Using Both Static HTML, CSS and JavaScript as well As the React Framework. And used site analytics and metrics to define and monitor success."
-        }, {
-            "role": "Freelancer",
-            "location": "Benin, Nigeria",
-            "company": "Freelancer",
-            "timeline": {"from": "2020", "to": "Present"},
-            "summary": "• Architecting and developing fully functional, accessible and responsive web applications using a wide range of tools and technologies for various clients. \n• Services provided for these clients span across front-end development to full-stack application development. Check out my portfolio to see some of these applications live."
-        },  {
-            "role": "Software Engineer Intern",
-            "location": "Lagos, Nigeria",
-            "company": "GRIT Systems Engineering Ltd.",
-            "timeline": {"from": "June 2018", "to": "Dec 2018"},
-            "summary": "• Worked with the software team to build software to support the company's hardware products. \n• Designed, developed and maintained the front-end application for the company's project using ReactJS, TypeScript and Material UI. \n• Developed web services for user and order management using Flask."
+            "summary": "• Worked as a Freelancer where I Created, Customized and deployed high performance website of small businesses Using Both Static HTML, CSS and JavaScript as well As other javascript Framework like React. I alsoa at times implemented my Knowledge of SEO to makes these websites show up and  rank high in various search engine like Google. And used Google analytics and metrics to define and monitor success."
         }
     ],
     "projects": {"starbucks-clone":{
