@@ -8,7 +8,7 @@ import {
 	MenuIcon,
 	CloseCircleIcon,
 	HomeIcon,
-	AboutIcon,
+	AboutIcon, 
 	ResumeIcon,
 	PortfolioIcon,
 	ContactIcon,
