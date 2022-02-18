@@ -34,26 +34,25 @@ const AboutPage = () => {
 							<strong className="about-page__text--bold"> Who am I? </strong>
 							<ul className="about-page__list">
 								<li className="about-page__list-item">
-									A Software Developer with hands on experience developing
-									websites, Web and Mobile applications and also Digital Marketing.
+									A Software Developer with hands on experience developing Web and Mobile applications and also Digital Marketing.
 								</li>
 								<li className="about-page__list-item">
 									Someone with a good grasp of engineering concepts, data
-									structures, algorithms and the design of systems.
+									structures, algorithms and the general design of systems.
 								</li>
 								<li className="about-page__list-item">
 									A Developer with knowledge and expenrence with Search Engine Marketing(SEM), Google Digital advertisement.
 								</li>
 
 								<li className="about-page__list-item">
-									Currently making magic at{" "}
+									Currently making magic at the Opensource community {"Github"}
 									<a
-										href="https://www.bloomberg.com/company/"
+										href="https://github/andreyscott"
 										target="_blank"
 										className="about-page__link"
 									>
 										{" "}
-										Unknown
+										@andreyscott
 									</a>
 								</li>
 							</ul>
@@ -71,6 +70,19 @@ const AboutPage = () => {
 										Front-End Web Development
 									</span>
 								</a>
+							
+								<a
+									href="https://www.github.com/andreyscott"
+									target="_blank"
+									className="about-page__services-link"
+								>
+									<WebIcon className="about-page__services-icon" />
+									<span className="about-page__services-text">
+										Mobile  App     Development (React Native)
+									
+									
+									</span>
+								</a>
 								<a
 									href="https://www.github.com/andreyscott"
 									target="_blank"
@@ -79,16 +91,6 @@ const AboutPage = () => {
 									<CodeBracesIcon className="about-page__services-icon" />
 									<span className="about-page__services-text">
 										SEO / Search Engine Marketing
-									</span>
-								</a>
-								<a
-									href="https://www.github.com/andreyscott"
-									target="_blank"
-									className="about-page__services-link"
-								>
-									<WebIcon className="about-page__services-icon" />
-									<span className="about-page__services-text">
-										Mobile App Development
 									</span>
 								</a>
 							</div>
