@@ -31,7 +31,7 @@ const ResumePage = () => {
         <p className="resume-page__subheading">
           Or Download my resume 👉🏾 {"Here"}
 									<a
-										href="https://github/andreyscott"
+										href="https://github.com/andreyscott"
 										target="_blank"
 										className="about-page__link"
 									>

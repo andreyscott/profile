@@ -47,7 +47,7 @@ const AboutPage = () => {
 								<li className="about-page__list-item">
 									Currently making magic at the Opensource community {"Github"}
 									<a
-										href="https://github/andreyscott"
+										href="https://github.com/andreyscott"
 										target="_blank"
 										className="about-page__link"
 									>
