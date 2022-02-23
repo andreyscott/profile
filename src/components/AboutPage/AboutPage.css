@@ -102,8 +102,8 @@ body {
 }
 
 .about-page__services-link:hover {
-  background-color: rgb(220, 208, 208);
-  color: grey;
+  background-color: rgb(38, 37, 46);
+  color: rgb(220, 208, 208);
 }
 
 .about-page__services-icon {
