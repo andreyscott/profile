@@ -6,8 +6,20 @@
         "linkedIn": "https://www.linkedin.com/in/andrew-irorere-b63a601b8/",
         "instagram": "https://www.instagram.com/andreyscott.tech/"
     },
-    "education":[ {
-            "degree": "The complete React Developer course",
+    "education":[ 
+        {
+            "degree": "JavaScript Algorithms and Data Structures",
+            "school": "FreeCodeCamp.",
+            "timeline": {"from": "Oct 2021", "to": "Feb 2022"},
+            "summary": "This course cemented my Knowledge of javascript and taught advancced Javascript Concepts Like Closures and recursive functions and also an intro to Algorithms and Data Structures \n"
+        },{
+            "degree": "The complete React Native Developer course",
+            "school": "ZTM Academy.",
+            "timeline": {"from": "Dec 2020", "to": "Feb 2021"},
+            "summary": "This course extensively taught various technical skills needed to Build enterprise level React applications and deploy to production  Using the Best Technology Like:\n\n\t• Redux React Router\n\t•  React Hooks and Context API\n\t• Firebase and Stripe API\n\t• GraphQL and PWA\n"
+        }, 
+        {
+            "degree": "The complete React Developer With Redux course",
             "school": "ZTM Academy.",
             "timeline": {"from": "Dec 2020", "to": "Feb 2021"},
             "summary": "This course extensively taught various technical skills needed to Build enterprise level React applications and deploy to production  Using the Best Technology Like:\n\n\t• Redux React Router\n\t•  React Hooks and Context API\n\t• Firebase and Stripe API\n\t• GraphQL and PWA\n"
@@ -17,11 +29,6 @@
             "school": "Google Digital Skills for Africa.",
             "timeline": {"from": "Aug 2021", "to": "Sept  2021"},
             "summary": "Learnt Everything about Digital marketing as well as: \n\n\t• Taking a Business Online,  \n\t• Selling Products and Services Online,\n\t •Getting a Business Online,  \n\t• Promoting a Business with Content, \n\t• and Also Connecting with Customers over Mobile\n \n"
-        },{
-            "degree": "JavaScript Algorithms and Data Structures",
-            "school": "FreeCodeCamp.",
-            "timeline": {"from": "Jan 2020", "to": "Aug  2020"},
-            "summary": "This course cemented my Knowledge of javascript and taught advancced Javascript Concepts Like Closures and recursive functions \n"
         },
         {
             "degree": "The Complete Web  Developer Course ",
@@ -37,7 +44,7 @@
     ], 
     "work":[
         {
-            "role": "Frontend React Native Developer",
+            "role": " React Native Developer",
             "location": "Remote",
             "company": "Afrirpay",
             "timeline": {"from": "Sept 2021", "to": "Dec 2021"},

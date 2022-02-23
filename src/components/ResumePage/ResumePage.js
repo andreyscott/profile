@@ -1,13 +1,14 @@
 import React from "react";
 import "./ResumePage.css";
+
 import data from "../../data.json";
+
 import javascript from "../../images/tech/javascript.svg";
 import git from "../../images/tech/git.svg";
 import react from "../../images/tech/react.svg";
 import nodejs from "../../images/tech/nodejs.svg";
 import html5 from "../../images/tech/html5.svg";
 import css3 from "../../images/tech/css3.svg";
-
 import typeScript from "../../images/tech/typeScript.svg";
 import tail from "../../images/tech/tailwind.svg";
 import boot from "../../images/tech/boot.svg";
@@ -26,6 +27,17 @@ const ResumePage = () => {
         </h1>
         <p className="resume-page__subheading">
           Learn more about my skills, qualifications and experiences.
+        </p>
+        <p className="resume-page__subheading">
+          Or Download my resume 👉🏾 {"Here"}
+									<a
+										href="https://github/andreyscott"
+										target="_blank"
+										className="about-page__link"
+									>
+										{" "}
+										Link
+									</a>
         </p>
       </header>
       <div className="resume-page__content">
