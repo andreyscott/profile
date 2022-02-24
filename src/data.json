@@ -73,6 +73,15 @@
         "live_url": "https://starbucks-d0a9b.web.app/",
         "github_url": "https://github.com/andreyscott/starbucks"
     },
+    "netflix-clone":{
+    "name": "Netflix-v2 clone",
+    "description": "I created and Deployed A React.Js Netflix Clone with user sign in Functionality using Google Account and send realtime posts updates using firestore Database. Other Tools used includes React-Framer-motion Fade, Material-Ui etc.",
+        "image_url": "https://media.socastsrm.com/wordpress/wp-content/blogs.dir/2166/files/2020/09/maxresdefault-2020-09-29T143513.299.jpg",
+        "device_image_url": "https://andrewirorere.tech/assets/img/portfolio/netflix.PNG",
+        "gif_url": "",
+        "live_url": "https://netflix-v2-d0a9b.web.app/",
+        "github_url": "https://github.com/andreyscott/netflix-v2"
+    },
     "kings-clothing":{
         "name": "Kings-clothing",
         "description": "",
@@ -154,10 +163,10 @@
     "github-finder":{
         "name": "Github Finder",
         "description": "In this project, I make use of GitHub's Developer API to search for and display basic information about Github users.",
-        "image_url": "https://res.cloudinary.com/karso/image/upload/v1624824210/Portfolio/Project%20Screenshots/lkdutjkll9xouz8pfnqr.png",
-        "gif_url": "https://github.com/KarenOk/Github-Finder/raw/master/demo.gif",
-        "live_url": "https://find-users-github.netlify.app",
-        "github_url": "https://github.com/KarenOk/Github-Finder"
+        "image_url": "",
+        "gif_url": "https://github.com/Github-Finder/raw/master/demo.gif",
+        "live_url": "",
+        "github_url": ""
     },
     
     "disney":{
