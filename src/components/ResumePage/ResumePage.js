@@ -29,14 +29,15 @@ const ResumePage = () => {
           Learn more about my skills, qualifications and experiences.
         </p>
         <p className="resume-page__subheading">
-          Or Download my resume 👉🏾 {"Here"}
+          Or Download my resume 👉🏾
 									<a
-										href="https://github.com/andreyscott"
+										href="https://drive.google.com/file/d/1qmFrYwI5n3nns1TYw7MvBk2TSLH65p-y/view?usp=sharing"
 										target="_blank"
+                    
 										className="about-page__link"
 									>
 										{" "}
-										Link
+										Here 🐱‍🏍
 									</a>
         </p>
       </header>
