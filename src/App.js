@@ -24,9 +24,10 @@ import PortfolioItem from "./components/PortfolioPage/PortfolioItem";
 import PageNotFound from "./components/PageNotFound/PageNotFound";
 
 const banners = [
-	"https://andreyscott.github.io/banner/img/B0.jpg",
+	// "https://andreyscott.github.io/banner/img/B0.jpg",
 	"https://andrewirorere.tech/assets/img/profile-img.jpg",											
 	 "https://andreyscott.github.io/banner/img/B1.jpg",
+	 "https://andreyscott.github.io/banner/img/B2.jpg",
 ];
 
 const navLinks = [
