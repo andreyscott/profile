@@ -14,7 +14,7 @@ import {
 	ContactIcon,
 } from "./images/icons/icons";
 
-import Config from "./App.config"
+//import Config from "./App.config"
 import LandingPage from "./components/LandingPage/LandingPage";
 import AboutPage from "./components/AboutPage/AboutPage";
 import ContactPage from "./components/ContactPage/ContactPage";
@@ -24,10 +24,12 @@ import PortfolioItem from "./components/PortfolioPage/PortfolioItem";
 import PageNotFound from "./components/PageNotFound/PageNotFound";
 
 const banners = [
-	// "https://andreyscott.github.io/banner/img/B0.jpg",
-	"https://andrewirorere.tech/assets/img/profile-img.jpg",											
+	"https://andreyscott.github.io/banner/img/B0.jpg",
+	//"https://andrewirorere.tech/assets/img/profile-img.jpg",
+	"https://avatars.githubusercontent.com/u/62455784?v=4",											
 	 "https://andreyscott.github.io/banner/img/B1.jpg",
-	 "https://andreyscott.github.io/banner/img/B2.jpg",
+	 "https://andreyscott.github.io/banner/img/b2.jpg",
+	 "https://andreyscott.github.io/banner/img/b3.jpg",
 ];
 
 const navLinks = [
@@ -109,7 +111,6 @@ function App() {
 			<Icon fill="white" width={iconWidth} className="app__nav-icon" />
 		</li>
 	);
-
 	return (
 		<div
 			className="app"

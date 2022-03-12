@@ -1,189 +1,204 @@
 {
-    "social": {
-        "email": "andreyscott301@gmail.com",
-        "github": "https://github.com/andreyscott",
-        "twitter": "https://twitter.com/andreyscott5",
-        "linkedIn": "https://www.linkedin.com/in/andrew-irorere-b63a601b8/",
-        "instagram": "https://www.instagram.com/andreyscott.tech/"
+  "social": {
+    "email": "andreyscott301@gmail.com",
+    "github": "https://github.com/andreyscott",
+    "twitter": "https://twitter.com/andreyscott5",
+    "linkedIn": "https://www.linkedin.com/in/andrew-irorere-b63a601b8/",
+    "instagram": "https://www.instagram.com/_andrey.tech/"
+  },
+  "education": [
+    {
+      "degree": "JavaScript Algorithms and Data Structures",
+      "school": "FreeCodeCamp.",
+      "timeline": { "from": "Oct 2021", "to": "Feb 2022" },
+      "summary": "This course cemented my Knowledge of javascript and taught advancced Javascript Concepts Like Closures and recursive functions and also an intro to Algorithms and Data Structures \n"
     },
-    "education":[ 
-        {
-            "degree": "JavaScript Algorithms and Data Structures",
-            "school": "FreeCodeCamp.",
-            "timeline": {"from": "Oct 2021", "to": "Feb 2022"},
-            "summary": "This course cemented my Knowledge of javascript and taught advancced Javascript Concepts Like Closures and recursive functions and also an intro to Algorithms and Data Structures \n"
-        },{
-            "degree": "The complete React Native Developer course",
-            "school": "ZTM Academy.",
-            "timeline": {"from": "Dec 2020", "to": "Feb 2021"},
-            "summary": "This course extensively taught various technical skills needed to Build enterprise level React applications and deploy to production  Using the Best Technology Like:\n\n\t• Redux React Router\n\t•  React Hooks and Context API\n\t• Firebase and Stripe API\n\t• GraphQL and PWA\n"
-        }, 
-        {
-            "degree": "The complete React Developer With Redux course",
-            "school": "ZTM Academy.",
-            "timeline": {"from": "Dec 2020", "to": "Feb 2021"},
-            "summary": "This course extensively taught various technical skills needed to Build enterprise level React applications and deploy to production  Using the Best Technology Like:\n\n\t• Redux React Router\n\t•  React Hooks and Context API\n\t• Firebase and Stripe API\n\t• GraphQL and PWA\n"
-        }, 
-        {
-            "degree": "Fundamentals of Digital Marketing",
-            "school": "Google Digital Skills for Africa.",
-            "timeline": {"from": "Aug 2021", "to": "Sept  2021"},
-            "summary": "Learnt Everything about Digital marketing as well as: \n\n\t• Taking a Business Online,  \n\t• Selling Products and Services Online,\n\t •Getting a Business Online,  \n\t• Promoting a Business with Content, \n\t• and Also Connecting with Customers over Mobile\n \n"
-        },
-        {
-            "degree": "The Complete Web  Developer Course ",
-            "school": "Udemy.",
-            "timeline": {"from": "june 2019", "to": "Nov 2019"},
-            "summary": "This course taught comprehensively various technical skills important in frontend web development. Completed several projects encompassing the knowledge of:\n\n\t• HTML, CSS and JavaScript\n\t• Responsive Web Design\n\t• Object-Oriented Programming\n\t• Web Accessibility\n\t• Node and Express.js\n\t• Working with APIs\n\t• Working with several frameworks (among others)\n"
-        }, {
-            "degree": "BSC. in Metallurgical, Material Engineering",
-            "school": "University of Benin, Nigeria.",
-            "timeline": {"from": "Nov 2019", "to": "Present"},
-            "summary": ""
-        }
-    ], 
-    "work":[
-        {
-            "role": " React Native Developer",
-            "location": "Remote",
-            "company": "Afrirpay",
-            "timeline": {"from": "Sept 2021", "to": "Dec 2021"},
-            "summary": "• Was part of a dedicated team of highly skilled React Native software developers, where I was task with building specific screens by writing scalable, documented, high performance codes in React native mainly using functional components and also some light code testing with JEST  before deployment."
-        },  {
-            "role": "Frontend Web Developer",
-            "location": "Benin city, Nigeria",
-            "company": "Kapitify.",
-            "timeline": {"from": "Feb 2020", "to": "July 2021"},
-            "summary": "• Worked with the software team to build software to support the company's hardware products. \n• Designed, developed and maintained the front-end application for the company's project using ReactJS, TypeScript and Material UI. \n• Developed web services for user and order management using Flask."
-        },
-        {
-            "role": "Full stack developer",
-            "location": "Remote",
-            "company": "Upwork",
-            "timeline": {"from": "Jul 2020", "to": "Oct 2020"},
-            "summary": "• Worked as a Freelancer where I Created, Customized and deployed high performance website of small businesses Using Both Static HTML, CSS and JavaScript as well As other javascript Framework like React. I alsoa at times implemented my Knowledge of SEO to makes these websites show up and  rank high in various search engine like Google. And used Google analytics and metrics to define and monitor success."
-        }
-    ],
-    "projects": {"starbucks-clone":{
-        "name": "Starbucks clone",
-        "description": "I created and Deployed A React.Js starbucks Clone with user sign in Functionality using Google Account and send realtime posts updates using firestore Database. Other Tools used includes React-Framer-motion Fade, Material-Ui etc.",
-        "image_url": "https://andrewirorere.tech/assets/img/portfolio/starbucks.PNG",
-        "device_image_url": "https://andrewirorere.tech/assets/img/portfolio/starbucks.PNG",
-        "gif_url": "",
-        "live_url": "https://starbucks-d0a9b.web.app/",
-        "github_url": "https://github.com/andreyscott/starbucks"
+    {
+      "degree": "The complete React Native Developer course",
+      "school": "ZTM Academy.",
+      "timeline": { "from": "Dec 2020", "to": "Feb 2021" },
+      "summary": "This course extensively taught various technical skills needed to Build enterprise level React applications and deploy to production  Using the Best Technology Like:\n\n\t• Redux React Router\n\t•  React Hooks and Context API\n\t• Firebase and Stripe API\n\t• GraphQL and PWA\n"
     },
-    "netflix-clone":{
-    "name": "Netflix-v2 clone",
-    "description": "I created and Deployed A React.Js Netflix Clone with user sign in Functionality using Google Account and send realtime posts updates using firestore Database. Other Tools used includes React-Framer-motion Fade, Material-Ui etc.",
-        "image_url": "https://media.socastsrm.com/wordpress/wp-content/blogs.dir/2166/files/2020/09/maxresdefault-2020-09-29T143513.299.jpg",
-        "device_image_url": "https://andrewirorere.tech/assets/img/portfolio/netflix.PNG",
-        "gif_url": "",
-        "live_url": "https://netflix-v2-d0a9b.web.app/",
-        "github_url": "https://github.com/andreyscott/netflix-v2"
+    {
+      "degree": "The complete React Developer With Redux course",
+      "school": "ZTM Academy.",
+      "timeline": { "from": "Dec 2020", "to": "Feb 2021" },
+      "summary": "This course extensively taught various technical skills needed to Build enterprise level React applications and deploy to production  Using the Best Technology Like:\n\n\t• Redux React Router\n\t•  React Hooks and Context API\n\t• Firebase and Stripe API\n\t• GraphQL and PWA\n"
     },
-    "kings-clothing":{
-        "name": "Kings-clothing",
-        "description": "",
-        "image_url": "https://thumbs.dreamstime.com/z/simple-sophisticated-crown-vector-logo-design-jewelry-fabrication-clothing-brand-template-160935110.jpg",
-        "gif_url": "",
-        "live_url": "",
-        "github_url": "https://github.com/andreyscott/Kings-clothing"
+    {
+      "degree": "Fundamentals of Digital Marketing",
+      "school": "Google Digital Skills for Africa.",
+      "timeline": { "from": "Aug 2021", "to": "Sept  2021" },
+      "summary": "Learnt Everything about Digital marketing as well as: \n\n\t• Taking a Business Online,  \n\t• Selling Products and Services Online,\n\t •Getting a Business Online,  \n\t• Promoting a Business with Content, \n\t• and Also Connecting with Customers over Mobile\n \n"
     },
-    "coffee":{
-        "name": "Coffee",
-        "description": "",
-        "image_url": "https://images-prod.healthline.com/hlcmsresource/images/AN_images/coffee-worlds-biggest-source-of-antioxidants-1296x728-feature.jpg",
-        "device_image_url": "https://images-prod.healthline.com/hlcmsresource/images/AN_images/coffee-worlds-biggest-source-of-antioxidants-1296x728-feature.jpg",
-        "gif_url": "",
-        "live_url": "https://andreyscott.github.io/coffee/",
-        "github_url": "https://github.com/andreyscott/coffee/"
+    {
+      "degree": "The Complete Web  Developer Course ",
+      "school": "Udemy.",
+      "timeline": { "from": "june 2019", "to": "Nov 2019" },
+      "summary": "This course taught comprehensively various technical skills important in frontend web development. Completed several projects encompassing the knowledge of:\n\n\t• HTML, CSS and JavaScript\n\t• Responsive Web Design\n\t• Object-Oriented Programming\n\t• Web Accessibility\n\t• Node and Express.js\n\t• Working with APIs\n\t• Working with several frameworks (among others)\n"
     },
-    "preg-beauty":{
-        "name": "Beauty",
-        "description": "Was inspired by the clone of Abeg App built by Olamide Solanke and decided to clone his clone 🌚. Check out <a href='https://no-dey-beg.netlify.app' target='_blank'>his clone</a>.",
-        "image_url": "https://andrewirorere.tech/assets/img/portfolio/Asset-1.svg",
-        "gif_url": "",
-        "live_url": "https://andreyscott.github.io/beauty1/",
-        "github_url": "https://github.com/andreyscott/beauty1"
+    {
+      "degree": "BSC. in Metallurgical, Material Engineering",
+      "school": "University of Benin, Nigeria.",
+      "timeline": { "from": "Nov 2016", "to": "Oct 2021" },
+      "summary": ""
+    }
+  ],
+  "work": [
+    {
+      "role": " React Native Developer",
+      "location": "Remote",
+      "company": "Afrirpay",
+      "timeline": { "from": "Sept 2021", "to": "Dec 2021" },
+      "summary": "• Was part of a dedicated team of highly skilled React Native software developers, where I was task with building specific screens by writing scalable, documented, high performance codes in React native mainly using functional components and also some light code testing with JEST  before deployment."
     },
-    "amazon":{
-        "name": "Amazon-clone",
-        "description": "",
-        "image_url": "https://andrewirorere.tech/assets/img/portfolio/p5.jpg",
-        "device_image_url": "https://andrewirorere.tech/assets/img/portfolio/p5.jpg",
-        "gif_url": "",
-        "live_url": "https://clone-92be1.web.app/",
-        "github_url": "https://github.com/andreyscott/myAmazon-clone"
+    {
+      "role": "Frontend Web Developer",
+      "location": "Benin city, Nigeria",
+      "company": "Kapitify.",
+      "timeline": { "from": "Feb 2020", "to": "July 2021" },
+      "summary": "• Worked with the software team to build software to support the company's hardware products. \n• Designed, developed and maintained the front-end application for the company's project using ReactJS, TypeScript and Material UI. \n• Developed web services for user and order management using Flask."
     },
-    "real-estate":{
-        "name": "Real Estate",
-        "description": "This project involved building a Minimum Viable Product for a restaurant management system. Built a fully functional, accessible and responsive UI for the product’s web application using React, Context API and Bootstrap 4. Integrated the web application with the backend by consuming RESTful API endpoints.",
-        "image_url": "https://andrewirorere.tech/assets/img/portfolio/house-4.jpg",
-        "device_image_url": "https://andrewirorere.tech/assets/img/portfolio/house-4.jpg",
-        "gif_url": "",
-        "live_url": "https://real-estate-5317b.web.app/",
-        "github_url": "https://github.com/andreyscott/Creeps"
-    },
-    "airbnb":{
-        "name": "Airbnb",
-        "description": "This project involved building a Minimum Viable Product for a proptech startup company, Rentgage. Built a mobile application for the product's client-side as well as the backend to go along with it. <br /> <br /> Built using React Native and Node.",
-        "image_url": "https://andrewirorere.tech/assets/img/portfolio/air.jpg",
-        "device_type": "mobile",
-        "gif_url": "",
-        "live_url": "https://sad-perlman-c63069.netlify.app",
-        "github_url": "https://github.com/andreyscott/Airbnb"
-    },
- "portfolio":{
-        "name": "Portfolio V1",
-        "description": "",
-        "image_url": "https://andrewirorere.tech/assets/img/profile-img.jpg",
-        "gif_url": "",
-        "live_url": "https://AndrewIrorere.tech",
-        "github_url": "https://github.com/andreyscott/portfolio1"
-    },
+    {
+      "role": "Full stack developer",
+      "location": "Remote",
+      "company": "Upwork",
+      "timeline": { "from": "Jul 2020", "to": "Oct 2020" },
+      "summary": "• Worked as a Freelancer where I Created, Customized and deployed high performance website of small businesses Using Both Static HTML, CSS and JavaScript as well As other javascript Framework like React. I alsoa at times implemented my Knowledge of SEO to makes these websites show up and  rank high in various search engine like Google. And used Google analytics and metrics to define and monitor success."
+    }
+  ],
+  "projects": {
+    "medium-clone": {
+      "name": "Mediun clone",
+      "description": "I created and Deployed A Next.js + Tailwind CSS Medium Clone with user sign in Functionality to be added later using Google Account In this project I used. -Next.Js-Tailwind CSS - React-Hook-Form _ Sanity -Deployed with Vercel. Other Tools used includes React-Framer-motion Fade, Material-Ui etc.",
+      "image_url": "https://res.cloudinary.com/di3zoiucb/image/upload/v1643857567/clone/medium-cover_zaqivr.png",
+      "device_image_url": "https://res.cloudinary.com/di3zoiucb/image/upload/v1643857567/clone/medium-cover_zaqivr.png",
+      "gif_url": "",
+      "live_url": "http://medium-clone-blue.vercel.app/",
+      "github_url": "https://github.com/andreyscott/medium_clone"
 
-    "ej-touch":{
-        "name": "Ej Touch",
-        "description": ".",
-        "image_url": "https://andrewirorere.tech/assets/img/portfolio/p4.jpg",
-        "gif_url": "",
-        "live_url": "https://beauty-salon-e2958.web.app/  ",
-        "github_url": "https://github.com/andreyscott/beauty-salon"
-    },
-    "spotify":{
-        "name": "Spotify clone",
-        "description": " ",
-        "image_url": "https://andrewirorere.tech/assets/img/portfolio/p3.png",
-        "device_image_url": "https://andrewirorere.tech/assets/img/portfolio/air.jpg",
-        "gif_url": "",
-        "live_url": "https://spotify-clone-17c62.web.app/",
-        "github_url": "https://github.com/andreyscott/Spotify-clone"
-    },
-    "github-finder":{
-        "name": "Github Finder",
-        "description": "In this project, I make use of GitHub's Developer API to search for and display basic information about Github users.",
-        "image_url": "",
-        "gif_url": "https://github.com/Github-Finder/raw/master/demo.gif",
-        "live_url": "",
-        "github_url": ""
     },
     
-    "disney":{
-        "name": "Disney+ Clone Coming Soon",
-        "description": "",
-        "image_url": "",
-        "gif_url": "",
-        "live_url": "",
-        "github_url": "https://github.com/andreyscott/Disney"
+    "starbucks-clone": {
+      "name": "Starbucks clone",
+      "description": "I created and Deployed A React.Js starbucks Clone with user sign in Functionality using Google Account and send realtime posts updates using firestore Database. Other Tools used includes React-Framer-motion Fade, Material-Ui etc.",
+      "image_url": "https://andreyscott.github.io/banner/img/starbucks.PNG",
+      "device_image_url": "https://andreyscott.github.io/banner/img/starbucks.PNG",
+      "gif_url": "",
+      "live_url": "https://starbucks-d0a9b.web.app/",
+      "github_url": "https://github.com/andreyscott/starbucks"
     },
-    "whatsapp-web-clone":{
-        "name": "Whatsapp Web Clone V2 Coming Soon",
-        "description": "",
-        "image_url": "",
-        "gif_url": "",
-        "live_url": "",
-        "github_url": "https://github.com/"
+    "netflix-clone": {
+      "name": "Netflix-v2 clone",
+      "description": "I created and Deployed A React.Js Netflix Clone with user sign in Functionality using Google Account and send realtime posts updates using firestore Database. Other Tools used includes React-Framer-motion Fade, Material-Ui etc.",
+      "image_url": "https://media.socastsrm.com/wordpress/wp-content/blogs.dir/2166/files/2020/09/maxresdefault-2020-09-29T143513.299.jpg",
+      "device_image_url": "https://andrewirorere.tech/assets/img/portfolio/netflix.PNG",
+      "gif_url": "",
+      "live_url": "https://netflix-v2-d0a9b.web.app/",
+      "github_url": "https://github.com/andreyscott/netflix-v2"
+    },
+    "kings-clothing": {
+      "name": "Kings-clothing",
+      "description": "",
+      "image_url": "https://thumbs.dreamstime.com/z/simple-sophisticated-crown-vector-logo-design-jewelry-fabrication-clothing-brand-template-160935110.jpg",
+      "gif_url": "",
+      "live_url": "https://kings-clothing-6b3ca.web.app/",
+      "github_url": "https://github.com/andreyscott/Kings-clothing"
+    },
+    "coffee": {
+      "name": "Coffee",
+      "description": "",
+      "image_url": "https://images-prod.healthline.com/hlcmsresource/images/AN_images/coffee-worlds-biggest-source-of-antioxidants-1296x728-feature.jpg",
+      "device_image_url": "https://images-prod.healthline.com/hlcmsresource/images/AN_images/coffee-worlds-biggest-source-of-antioxidants-1296x728-feature.jpg",
+      "gif_url": "",
+      "live_url": "https://andreyscott.github.io/coffee/",
+      "github_url": "https://github.com/andreyscott/coffee/"
+    },
+    "preg-beauty": {
+      "name": "Beauty",
+      "description": "Was inspired by the clone of Abeg App built by Olamide Solanke and decided to clone his clone 🌚. Check out <a href='https://no-dey-beg.netlify.app' target='_blank'>his clone</a>.",
+      "image_url": "https://dvyvvujm9h0uq.cloudfront.net/com/articles/1514474020-tips-for-aspiring-fashion-models.jpg",
+      "gif_url": "https://dvyvvujm9h0uq.cloudfront.net/com/articles/1514474020-tips-for-aspiring-fashion-models.jpg",
+      "live_url": "https://andreyscott.github.io/beauty1/",
+      "github_url": "https://github.com/andreyscott/beauty1"
+    },
+    "amazon": {
+      "name": "Amazon-clone",
+      "description": "",
+      "image_url": "https://andreyscott.github.io/banner/img/p5.jpg",
+      "device_image_url": "https://andreyscott.github.io/banner/img/p5.jpg",
+      "gif_url": "",
+      "live_url": "https://clone-92be1.web.app/",
+      "github_url": "https://github.com/andreyscott/myAmazon-clone"
+    },
+    "real-estate": {
+      "name": "Real Estate",
+      "description": "This project involved building a Minimum Viable Product for a restaurant management system. Built a fully functional, accessible and responsive UI for the product’s web application using React, Context API and Bootstrap 4. Integrated the web application with the backend by consuming RESTful API endpoints.",
+      "image_url": "https://andreyscott.github.io/banner/img/house-4.jpg",
+      "device_image_url": "https://andreyscott.github.io/banner/img/house-4.jpg",
+      "gif_url": "",
+      "live_url": "https://real-estate-5317b.web.app/",
+      "github_url": "https://github.com/andreyscott/Creeps"
+    },
+    "airbnb": {
+      "name": "Airbnb",
+      "description": "This project involved building a Minimum Viable Product for a proptech startup company, Rentgage. Built a mobile application for the product's client-side as well as the backend to go along with it. <br /> <br /> Built using React Native and Node.",
+      "image_url": "https://andreyscott.github.io/banner/img/air.jpg",
+      "device_type": "mobile",
+      "gif_url": "",
+      "live_url": "https://sad-perlman-c63069.netlify.app",
+      "github_url": "https://github.com/andreyscott/Airbnb"
+    },
+    "portfolio": {
+      "name": "Portfolio V1",
+      "description": "",
+      "image_url": "https://d3mxt5v3yxgcsr.cloudfront.net/courses/6020/course_6020_image.png",
+      "gif_url": "https://d3mxt5v3yxgcsr.cloudfront.net/courses/6020/course_6020_image.png",
+      "live_url": "https://AndrewIrorere.tech",
+      "github_url": "https://github.com/andreyscott/portfolio1"
+    },
+
+    "ej-touch": {
+      "name": "Ej Touch",
+      "description": ".",
+      "image_url": "https://andreyscott.github.io/banner/img/p4.jpg",
+      "gif_url": "https://andreyscott.github.io/banner/img/p4.jpg",
+      "live_url": "https://beauty-salon-e2958.web.app/",
+      "github_url": "https://github.com/andreyscott/beauty-salon"
+    },
+    "spotify": {
+      "name": "Spotify clone",
+      "description": " ",
+      "image_url": "https://andreyscott.github.io/banner/img/p3.png",
+      "device_image_url": "https://andreyscott.github.io/banner/img/p3.png",
+      "gif_url": "",
+      "live_url": "https://spotify-clone-17c62.web.app/",
+      "github_url": "https://github.com/andreyscott/Spotify-clone"
+    },
+    "github-finder": {
+      "name": "Github Finder",
+      "description": "In this project, I make use of GitHub's Developer API to search for and display basic information about Github users.",
+      "image_url": "",
+      "gif_url": "https://github.com/Github-Finder/raw/master/demo.gif",
+      "live_url": "",
+      "github_url": ""
+    },
+
+    "disney": {
+      "name": "Disney+ Clone Coming Soon",
+      "description": "",
+      "image_url": "",
+      "gif_url": "",
+      "live_url": "",
+      "github_url": "https://github.com/andreyscott/Disney"
+    },
+    "whatsapp-web-clone": {
+      "name": "Whatsapp Web Clone V2 Coming Soon",
+      "description": "",
+      "image_url": "",
+      "gif_url": "",
+      "live_url": "",
+      "github_url": "https://github.com/"
     }
-}
+  }
 }
