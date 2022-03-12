@@ -11,7 +11,8 @@ import Config from "./App.config"
 
 ReactGA.initialize(process.env.REACT_APP_GA_TRACKING_CODE);
 
-
+// https://andreyscott.github.io/banner/img/B1.jpg
+    // https://andreyscott.github.io/banner/img/B1.jpg
 
 ReactDOM.render(
 	<React.StrictMode>
