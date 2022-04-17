@@ -59,16 +59,6 @@ const LandingPage = () => {
 				<ul className="social">
 					<li className="social__item">
 						<a
-							href={data.social.github}
-							className="social__link"
-							target="_blank"
-							aria-label="Github"
-						>
-							<GithubIcon className="social__icon" />
-						</a>
-					</li>
-					<li className="social__item">
-						<a
 							href={data.social.linkedIn}
 							className="social__link"
 							target="_blank"
@@ -85,6 +75,16 @@ const LandingPage = () => {
 							aria-label="Email"
 						>
 							<EmailIcon className="social__icon" />
+						</a>
+					</li>
+					<li className="social__item">
+						<a
+							href={data.social.github}
+							className="social__link"
+							target="_blank"
+							aria-label="Github"
+						>
+							<GithubIcon className="social__icon" />
 						</a>
 					</li>
 					<li className="social__item">
