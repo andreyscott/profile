@@ -33,6 +33,7 @@ const ResumePage = () => {
 									<a
 										href="https://drive.google.com/file/d/1qmFrYwI5n3nns1TYw7MvBk2TSLH65p-y/view?usp=sharing"
 										target="_blank"
+                    rel="noopener noreferrer"
                     
 										className="about-page__link"
 									>
