@@ -4,7 +4,7 @@
     "github": "https://github.com/andreyscott",
     "twitter": "https://twitter.com/andreyscott5",
     "linkedIn": "https://www.linkedin.com/in/andrew-irorere",
-    "instagram": "https://www.instagram.com/_ai.dev"
+    "instagram": "https://www.instagram.com/itsandreydev"
   },
   "education": [
     {
@@ -68,6 +68,15 @@
     }
   ],
   "projects": {
+    "hulux-clone": {
+      "name": "HuluX clone",
+      "description": "I created and Deployed A Next.js web app using Tailwind CSS for study pupposes  with user sign in Functionality to be added later. In this project I used. -Next.Js- TailwindCSS - Heroicons etc. Deployed with Vercel. A hulux website clone built for study purposes To test out my Skills in TailwindCSS and API Integrations.",
+      "image_url": "images/hulux.png",
+      "device_image_url": "images/hulux.png",
+      "gif_url": "images/hulux.png",
+      "live_url": "https://hulu-mauve-two.vercel.app/",
+      "github_url": "https://github.com/andreyscott/hulu"
+    },
     "medium-clone": {
       "name": "Mediun clone",
       "description": "I created and Deployed A Next.js + Tailwind CSS Medium Clone with user sign in Functionality to be added later using Google Account In this project I used. -Next.Js-Tailwind CSS - React-Hook-Form _ Sanity -Deployed with Vercel. Other Tools used includes React-Framer-motion Fade, Material-Ui etc.",
@@ -76,7 +85,6 @@
       "gif_url": "",
       "live_url": "http://medium-clone-blue.vercel.app/",
       "github_url": "https://github.com/andreyscott/medium_clone"
-
     },
     
     "starbucks-clone": {
