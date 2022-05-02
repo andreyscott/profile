@@ -150,7 +150,7 @@ const ContactPage = () => {
 				<div className="contact-page__content">
 					<div className="contact-page__content-left">
 						<h2 className="contact-page__heading">
-							Reach out on social media!
+						Or	reach out on social media!
 						</h2>
 					</div>
 					<div className="contact-page__content-right">
