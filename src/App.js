@@ -25,9 +25,9 @@ import PageNotFound from "./components/PageNotFound/PageNotFound";
 import  kk from './images/portfolio/kk.jpg';
 const banners = [
 	"images/b3.jpg",
-	"images/b2.jpg",
+	"images/b2.jfif",
 	"images/b4.jpg",
-	"images/b1.jpg",
+	"images/b5.jpg",
 	
 ];
 
