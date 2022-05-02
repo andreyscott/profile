@@ -79,7 +79,7 @@ export const InstagramIcon = ({
 		<>
 			<svg
 				xmlns="http://www.w3.org/2000/svg"
-				fill="#000000"
+				fill={fill}
 				viewBox="0 0 24 24"
 				className={className}
 				width={width}

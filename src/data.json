@@ -68,14 +68,41 @@
     }
   ],
   "projects": {
-    "hulux-clone": {
-      "name": "HuluX clone",
-      "description": "I created and Deployed A Next.js web app using Tailwind CSS for study pupposes  with user sign in Functionality to be added later. In this project I used. -Next.Js- TailwindCSS - Heroicons etc. Deployed with Vercel. A hulux website clone built for study purposes To test out my Skills in TailwindCSS and API Integrations.",
-      "image_url": "images/hulux.png",
-      "device_image_url": "images/hulux.png",
+    "netflix-clone": {
+      "name": "Netflix-v2 clone",
+      "description": "I created and Deployed A React.Js Netflix Clone with user sign in Functionality using Google Account and send realtime posts updates using firestore Database. Other Tools used includes React-Framer-motion Fade, Material-Ui etc.",
+      "image_url": "https://media.socastsrm.com/wordpress/wp-content/blogs.dir/2166/files/2020/09/maxresdefault-2020-09-29T143513.299.jpg",
+      "device_image_url": "https://andrewirorere.tech/assets/img/portfolio/netflix.PNG",
+      "gif_url": "",
+      "live_url": "https://netflix-v2-d0a9b.web.app/",
+      "github_url": "https://github.com/andreyscott/netflix-v2"
+    },
+    "jewel": {
+      "name": "Jewels Beauty",
+      "description": "jewel Beauty is a fully mobile-responsive e-commerce website created with React.js as a standard e-commerce website project from a figma design  it has  user sign-in functionalities as well as authentication styled with Styled components deployed and Hosted on Vercel...",
+      "image_url": "images/jewel.png",
+      "device_image_url": "images/jewel.png",
+      "gif_url": "images/jewel.png",
+      "live_url": "https://beauty-first.vercel.app/",
+      "github_url": "https://github.com/andreyscott/beauty-ecomme"
+    },
+    "foxxy-salon": {
+      "name": "Foxxy",
+      "description": "Foxxy Beauty salon is a fully mobile-responsive client side website clone of a previous website created for a client at Upwork using React.js,Scss  and Googles-map-API",
+      "image_url": "images/foxxy.png",
+      "device_image_url": "images/foxxy.png",
+     "gif_url": "images/foxxy.png",
+      "live_url": "https://andreyscott.github.io/beauty-fox-saloon/",
+      "github_url": "https://github.com/andreyscott/beauty-fox-saloon"
+    },
+    "image-gallery": {
+      "name": "Image Gallery",
+      "description": "A Fun React.js website for testing out API integration and Styling with TailwindCss part of my personnal Training in mastering TailwindCSS and self-growth in general Deployed and Hosted my Vercel. In this project I used.  TailwindCSS - Axios- PixelBayAPI etc...",
+      "image_url": "images/gallery.png",
+      "device_image_url": "images/gallery.png",
       "gif_url": "images/hulux.png",
-      "live_url": "https://hulu-mauve-two.vercel.app/",
-      "github_url": "https://github.com/andreyscott/hulu"
+      "live_url": "http://image-gallery-five-liart.vercel.app/",
+      "github_url": "https://github.com/andreyscott/image-gallery"
     },
     "medium-clone": {
       "name": "Mediun clone",
@@ -86,6 +113,15 @@
       "live_url": "http://medium-clone-blue.vercel.app/",
       "github_url": "https://github.com/andreyscott/medium_clone"
     },
+    "hulux-clone": {
+      "name": "HuluX clone",
+      "description": "I created and Deployed A Next.js web app using Tailwind CSS for study pupposes  with user sign in Functionality to be added later. In this project I used. -Next.Js- TailwindCSS - Heroicons etc. Deployed with Vercel. A hulux website clone built for study purposes To test out my Skills in TailwindCSS and API Integrations.",
+      "image_url": "images/hulux.png",
+      "device_image_url": "images/hulux.png",
+      "gif_url": "images/hulux.png",
+      "live_url": "https://hulu-mauve-two.vercel.app/",
+      "github_url": "https://github.com/andreyscott/hulu"
+    },
     
     "starbucks-clone": {
       "name": "Starbucks clone",
@@ -95,15 +131,6 @@
       "gif_url": "",
       "live_url": "https://starbucks-d0a9b.web.app/",
       "github_url": "https://github.com/andreyscott/starbucks"
-    },
-    "netflix-clone": {
-      "name": "Netflix-v2 clone",
-      "description": "I created and Deployed A React.Js Netflix Clone with user sign in Functionality using Google Account and send realtime posts updates using firestore Database. Other Tools used includes React-Framer-motion Fade, Material-Ui etc.",
-      "image_url": "https://media.socastsrm.com/wordpress/wp-content/blogs.dir/2166/files/2020/09/maxresdefault-2020-09-29T143513.299.jpg",
-      "device_image_url": "https://andrewirorere.tech/assets/img/portfolio/netflix.PNG",
-      "gif_url": "",
-      "live_url": "https://netflix-v2-d0a9b.web.app/",
-      "github_url": "https://github.com/andreyscott/netflix-v2"
     },
     "kings-clothing": {
       "name": "Kings-clothing",
