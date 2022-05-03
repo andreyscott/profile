@@ -22,12 +22,11 @@ import ResumePage from "./components/ResumePage/ResumePage";
 import PortfolioPage from "./components/PortfolioPage/PortfolioPage";
 import PortfolioItem from "./components/PortfolioPage/PortfolioItem";
 import PageNotFound from "./components/PageNotFound/PageNotFound";
-import  kk from './images/portfolio/kk.jpg';
 const banners = [
 	"images/b3.jpg",
 	"images/b2.jfif",
 	"images/b4.jpg",
-	"images/b5.jpg",
+	"images/b5.jpg"
 	
 ];
 
