@@ -71,7 +71,7 @@ function App() {
 	}, []);
 
 	useEffect(() => {
-		console.log(process.env);
+		// console.log(process.env);
 		if (location.pathname === "/") setIsHome(true);
 		else setIsHome(false);
 		setShowNav(false);

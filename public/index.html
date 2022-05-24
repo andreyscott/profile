@@ -3,8 +3,9 @@
 
 <head>
 <meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<meta name="description" content="Andrew Irorere. React Developer Software Engineer,  Full-Stack Web Developer, Benin-city, Nigeria" />
+<link rel="manifest" href="manifest.json">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no " />
+<meta name="description" content="Andrew Irorere, React Software Engineer,  Front-End Web Developer Nigeria" />
 <meta name="keywords" content="Andrew, Andrew Irorere, Andrew Osayande Irorere, web Developer, Front-end Developer, Software Developer" />
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Merienda+One&display=swap" rel="stylesheet">
@@ -42,8 +43,17 @@
     <input type="text" name="subject" />
     <textarea name="message"></textarea>
   </form>
-
+  <script>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('service-worker.js').catch(function(ex) {
+        console.warn(ex);
+        console.warn('(This warning can be safely ignored outside of the production build.)');
+      });
+    }
+  </script>
   <script src="%PUBLIC_URL%/node_modules/focus-visible/dist/focus-visible.min.js"></script>
+ 
+  
 
 </body>
 
