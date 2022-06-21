@@ -31,7 +31,7 @@ const ResumePage = () => {
         <p className="resume-page__subheading">
           Or Download my resume 👉🏾
 									<a
-										href="https://drive.google.com/file/d/1qmFrYwI5n3nns1TYw7MvBk2TSLH65p-y/view?usp=sharing"
+										href="https://drive.google.com/file/d/1sYu5XfvpW7NiGL9ztduXhzjAqUKcBddA/view?usp=sharing"
 										target="_blank"
                     rel="noopener noreferrer"
                     

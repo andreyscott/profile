@@ -68,6 +68,24 @@
     }
   ],
   "projects": {
+    "coming-clone": {
+      "name": "coming Soon Web",
+      "description": " A Clean Coming Soon website for The Abacus Accounting Software Startup created with ReactJs, TailwindCss and Material UI",
+      "image_url": "images/abacus.png",
+      "device_image_url": "images/abacus.png",
+      "gif_url": "",
+      "live_url": "https://abacus-ext.web.app/",
+      "github_url": "https://github.com/andreyscott/react-cooming"
+    },
+    "usdaio": {
+      "name": "USDAO homepage",
+      "description": "As part of the technical interview at TriganDao I was tasked to re-created the Iconic USDAO.io HomePage to test my skills In React Tailwindcss and data fetchin",
+      "image_url": "images/usdio.png",
+      "device_image_url": "images/usdio.png",
+      "gif_url": "",
+      "live_url": "https://andreycryptoo.web.app/",
+      "github_url": "https://github.com/andreyscott/crypto"
+    },
     "netflix-clone": {
       "name": "Netflix-v2 clone",
       "description": "I created and Deployed A React.Js Netflix Clone with user sign in Functionality using Google Account and send realtime posts updates using firestore Database. Other Tools used includes React-Framer-motion Fade, Material-Ui etc.",
