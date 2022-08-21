@@ -1,4 +1,4 @@
- <img src='./src/andrey.png' height='400' />
+ <img src='./src/andrey.png' height='380' />
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
