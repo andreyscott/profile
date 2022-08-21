@@ -70,20 +70,29 @@
   "projects": {
     "manage-web": {
       "name": "Manage Landing Page",
-      "description": "A Smoth Landing Page website design my frontendmentor and created for education purpose using ReactJs, TailwindCss and Typescript and frameworks like Material UI, React Router, and Framer Motion",
+      "description": "A Smoth Landing Page website design my frontEnd mentor and created for education purpose using ReactJs, TailwindCss and Typescript and frameworks like Material UI, React Router, and Framer Motion",
       "image_url": "images/manage.png",
       "device_image_url": "images/manage.png",
       "gif_url": "",
-      "live_url": "https://manage-landing-page-aj8.pages.dev#",
+      "live_url": "https://manage-landing-page-aj8.pages.dev",
       "github_url": "https://github.com/andreyscott/"
     },
+    "kings-meal": {
+      "name": "Kings-meal-Web",
+      "description": "Kings meal website first leading a team of young developer on a group project I personally worked on the HomaPage, Navbar, Header and Footer  using ReactJs, Scss and React-Router-dom and frameworks like Material UI, and Framer Motion",
+      "image_url": "images/kings.png",
+      "device_image_url": "images/kings.png",
+      "gif_url": "",
+      "live_url": "https://kingsmeals.vercel.app/",
+      "github_url": "https://github.com/andreyscott/kingsmeal-1"
+    },
     "easy-bank": {
-      "name": "Easy Bank web",
+      "name": "Easy Bank/status/debugging",
       "description": " A Clean Coming Soon website for The Abacus Accounting Software Startup created with ReactJs, TailwindCss and Material UI",
       "image_url": "images/easybank-design.jpg",
       "device_image_url": "images/easybank-design.jpg",
       "gif_url": "",
-      "live_url": "https://easybank-pearl.vercel.app/",
+      "live_url": "https://andrey-profile.web.app/",
       "github_url": "https://github.com/andreyscott/easybanking"
     },
     "coming-clone": {
