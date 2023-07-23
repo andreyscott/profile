@@ -3,7 +3,9 @@ import ReactDOM from "react-dom";
 import { BrowserRouter as Router } from "react-router-dom";
 import "./index.css";
 import App from "./App";
-import reportWebVitals from "./reportWebVitals";
+import reportWebVitals from "./reportWebVitals"; 
+// import * as serviceWorker from "./service-worker";
+import * as serviceWorkerR from "./serviceWorkerRegistration"
 import { ToastProvider } from "react-toast-notifications";
 import "html5-device-mockups/dist/device-mockups.min.css";
 import ReactGA from "react-ga";
@@ -27,4 +29,5 @@ ReactDOM.render(
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
- reportWebVitals();
+//  reportWebVitals();
+ serviceWorkerR.register();
